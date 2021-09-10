@@ -7,6 +7,7 @@ ENV TZ Europe/Amsterdam
 
 RUN dnf install -y \
       curl \
+      git \
       go-toolset \
       java-11-openjdk-headless \
       jq

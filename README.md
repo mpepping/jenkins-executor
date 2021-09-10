@@ -9,5 +9,6 @@ Added packages are:
 * Go toolset 
 * OpenJDK 11 headless
 * curl
+* git
 * jq
 
