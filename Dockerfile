@@ -10,7 +10,7 @@ RUN dnf install -y \
       go-toolset \
       java-11-openjdk-headless \
       jq \
-			buildah \
-			skopeo &&\
+      buildah \
+      skopeo &&\
     dnf clean all
 
